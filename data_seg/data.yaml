@@ -1,0 +1,7 @@
+path: ../data
+train: images
+val: images
+
+nc: 20
+
+names: [bn_1, bn_10, bn_100, bn_1000, bn_2, bn_20, bn_200, bn_5, bn_50, bn_500, coin_1, coin_10, coin_10_bn, coin_1_bn, coin_2, coin_25, coin_2_bn, coin_5, coin_50, coin_5_bn]
